@@ -11,7 +11,8 @@ This project contains three simple and fun browser-based games:
 
 ### 1. Fork and Clone the Repository
         - Fork this repository on GitHub.
-        - Clone it to your local system using this syntax in bash terminal
+        - Clone it to your local system using this syntax in bash terminal by typing
+                           git clone https://github.com/rajvineet968/Gamelet.git
 
 ### 2. Open the Project in VS Code
         -Navigate to the project folder.
